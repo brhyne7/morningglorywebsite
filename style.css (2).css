@@ -1,0 +1,146 @@
+
+html{
+	background-color:#DCDCDC;
+	margin:0px;
+
+}
+body
+{
+	margin-left:0px;
+	font-family:georgia, serif;
+	font-size:1.2em;
+	
+}
+
+header {
+	margin:0px;
+}
+
+p,h1,div,section,main,article,span.headerType{
+	margin-left:15px;
+	padding:0.5em;
+}
+nav#nav-bar {
+	
+	display:flex;
+	justify-content:space-around;
+	align-items:center;
+	font-size:1em;
+	padding:15px;
+	
+}
+#header {
+	background-color:#DCDCDC;
+	display:flex;
+
+}
+
+button.nav-link {
+	background-color:/*#eb8d8d;*/#DCDCDC;
+	color:#a50021;	
+	text-align:center;
+	margin-left:30px;
+	width:140px;
+	height:auto;
+	font-family:georgia,serif;
+	font-size:0.9em;
+	font-weight:400;
+}
+
+button {
+	text-decoration:none;
+	border:none;
+}
+
+h1.fontForPage {
+	font-family: p22-zaner-pro-one, sans-serif;
+	font-weight: 800;
+	font-style: bold;
+	font-size:50px;
+	text-align:center;
+	color:#fff;
+}
+
+a {
+	text-decoration:none;
+	color:#000;
+}
+
+a:hover {
+	color:#000;
+	text-decoration:underline;
+	width:100%;
+}
+
+span.headerType {
+	font-family: p22-zaner-pro-one, sans-serif;
+	font-weight: 700;
+	font-style: normal;
+	font-size:50px;
+}
+
+section.plans {
+	width:75%;
+	height:auto;
+	margin-left:auto;
+	margin-right:auto;
+	/*background-color:/*#DCDCDC;*green;*/
+	align-content:center;
+	margin-left:auto;
+}
+
+img.rose2 {
+	position:relative;
+	margin-top:-470px;
+	margin-left:600px;
+	width:40%;
+	
+}
+
+img.plans2 {
+	position:relative;
+	margin-top:30px;
+	width:40%;
+}
+
+main {
+	width:90%;
+	margin-left:35px;
+	line-height:1.4;
+	font-weight:450;
+}
+
+section.welcomeContent1{
+	display:flex;
+	align-items:center;
+	background-color:#22313f;
+	padding:15px;
+	color:#fff;
+	font-weight:500;
+	margin-bottom:35px;
+}
+
+section.callingInfo{
+	display:flex;
+	background-color:pink;
+	padding:15px;
+	color:#000;
+	font-weight:normal;
+	margin-top:50px;
+}
+footer {
+	display:flex;
+	justify-content:space-between;
+	background-color:#DCDCDC;
+	padding-top:15px;
+}
+
+h1.fontForPage {
+font-family: p22-zaner-pro-one, sans-serif;
+	font-weight: 700;
+	font-style: normal;
+	text-align:center;
+	color:#000;
+}
+
+
